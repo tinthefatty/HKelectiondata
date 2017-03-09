@@ -1,0 +1,100 @@
+﻿Code,Name_CN,Name_EN,Address_CN,Address_EN,GC,LC_Code
+A0101,專業聯合中心,Joint Professional Centre,香港中環皇后大道中99號中環中心地下1室,"Unit 1, G/F, The Center, 99 Queen's Road Central, Central, Hong Kong",HKI,A01
+A0102,香港公園體育館,Hong Kong Park Sports Centre,香港中環紅棉路29號,"29 Cotton Tree Drive, Central, Hong Kong",HKI,A01
+A0201,高主教書院,Raimondi College,香港羅便臣道2號,"2 Robinson Road, Hong Kong",HKI,A02
+A0301,香港真光幼稚園(堅道),Hong Kong True Light Kindergarten (Caine Road),香港堅道75號地下至2樓,"G/F-2/F, 75 Caine Road, Hong Kong",HKI,A03
+A0302,食物環境衞生署食物安全中心(醫院道辦事處),"Centre for Food Safety (Hospital Road Office), Food and Environmental Hygiene Department",香港醫院道4號,"4 Hospital Road, Hong Kong",HKI,A03
+A0401,德瑞國際學校山頂校舍,German Swiss International School Peak Campus,香港山頂僑福道22號德瑞國際學校山頂校舍中座,"Middle Building, German Swiss International School Peak Campus, 22 Guildford Road, The Peak, Hong Kong",HKI,A04
+A0501,西營盤社區綜合大樓社區會堂,Sai Ying Pun Community Complex Community Hall,香港西營盤高街2號西營盤社區綜合大樓3樓,"3/F, Sai Ying Pun Community Complex, 2 High Street, Sai Ying Pun, Hong Kong",HKI,A05
+A0601,香港基督教女青年會西環綜合社會服務處,HKYWCA Western District Integrated Social Service Centre,香港西環域多利道9-15號百年大樓第1期A座2樓,"Flat A, 1/F, Block 1, Centenary Mansion, 9-15 Victoria Road, Western District, Hong Kong",HKI,A06
+A0701,士美非路體育館,Smithfield Sports Centre,香港堅尼地城士美菲路12號K士美非路市政大廈4樓,"4/F, Smithfield Municipal Services Building, 12K Smithfield, Kennedy Town, Hong Kong",HKI,A07
+A0801,堅尼地城社區綜合大樓(綜合用途室),Kennedy Town Community Complex (Multi-purpose Function Room),香港堅尼地城石山街12號2樓,"2/F, 12 Rock Hill Street, Kennedy Town, Hong Kong",HKI,A08
+A0901,維多利亞(寶翠園)幼稚園,Victoria (Belcher) Kindergarten,香港卑路乍街8號西寶城3樓(幼稚園),"Podium Level 3 (Kindergarten Area), The Westwood, 8 Belcher's Street, Hong Kong",HKI,A09
+A1001,石塘咀體育館,Shek Tong Tsui Sports Centre,香港皇后大道西470號石塘咀市政大廈5樓,"5/F, Shek Tong Tsui Municipal Services Building, 470 Queen's Road West, Hong Kong",HKI,A10
+A1101,中西區及離島區社會保障辦事處,Central and Western / Islands Social Security Field Unit,香港德輔道西246號東慈商業中心3樓,"3/F, Tung Che Commercial Centre, 246 Des Voeux Road West, Hong Kong",HKI,A11
+A1102,中山紀念公園體育館,Sun Yat Sen Memorial Park Sports Centre,香港西營盤東邊街北18號,"18 Eastern Street North, Sai Ying Pun, Hong Kong",HKI,A11
+A1201,上環郵政局,Sheung Wan Post Office,香港上環德輔道中322-324號西區電話機樓1樓,"1/F, West Exchange Tower, 322-324 Des Voeux Road Central, Sheung Wan, Hong Kong",HKI,A12
+A1301,新會商會學校,San Wui Commercial Society School,香港上環居賢坊1號,"1 Kui In Fong, Sheung Wan, Hong Kong",HKI,A13
+A1302,聖公會聖馬太小學,SKH St. Matthew's Primary School,香港上環新街12-20號,"12-20 New Street, Sheung Wan, Hong Kong",HKI,A13
+A1401,基督教香港崇真會救恩堂及救恩學校,Tsung Tsin Mission of Hong Kong Kau Yan Church and Kau Yan School,香港西營盤第三街96號地下,"G/F, 96 Third Street, Sai Ying Pun, Hong Kong",HKI,A14
+A1501,李陞小學,Li Sing Primary School,香港西營盤高街119號,"119 High Street, Sai Ying Pun, Hong Kong",HKI,A15
+B0101,軒尼詩道官立小學,Hennessy Road Government Primary School,香港灣仔譚臣道169號,"169 Thomson Road, Wan Chai, Hong Kong",HKI,B01
+B0201,鄧肇堅維多利亞官立中學,Tang Shiu Kin Victoria Government Secondary School,香港灣仔愛群道5號,"5 Oi Kwan Road, Wan Chai, Hong Kong",HKI,B02
+B0301,前灣仔學校,Former Wanchai School,香港灣仔愛群道30號,"30 Oi Kwan Road, Wan Chai, Hong Kong",HKI,B03
+B0401,皇仁書院,Queen’s College,香港銅鑼灣高士威道120號,"120 Causeway Road, Causeway Bay, Hong Kong",HKI,B04
+B0501,港島兒童蒙特梭利學校,Island Children's Montessori School,香港北角天后廟道16號地下B舖,"Unit B, UG/F, 16 Tin Hau Temple Road, Tin Hau, Hong Kong",HKI,B05
+B0502,勵德邨邨榮樓有蓋停車場,"Covered Carpark of Tsuen Wing Lau, Lai Tak Tsuen",香港大坑勵德邨道34號勵德邨,"Lai Tak Tsuen, 34 Lai Tak Tsuen Road, Tai Hang, Hong Kong",HKI,B05
+B0601,灣仔區文娛康樂體育會,"Wan Chai District Arts, Cultural, Recreational & Sports Association",香港銅鑼灣大坑道摩頓台 (香港中央圖書館側),"Moreton Terrace, Underneath Tai Hang Road, Flyover, Causeway Bay, Hong Kong (Beside Hong Kong Central Library)",HKI,B06
+B0701,港灣婦女會,Wan Chai District Women's Association,香港銅鑼灣摩頓台,"Moreton Terrace, Causeway Bay, Hong Kong",HKI,B07
+B0801,中華基督教會公理高中書院,CCC Kung Lee College,香港銅鑼灣大坑徑17號,"17 Tai Hang Drive, Causeway Bay, Hong Kong",HKI,B08
+B0901,禮頓山社區會堂,Leighton Hill Community Hall,香港跑馬地黃泥涌道133號,"133 Wong Nai Chung Road, Happy Valley, Hong Kong",HKI,B09
+B1001,黃泥涌體育館,Wong Nai Chung Sports Centre,香港跑馬地毓秀街2號黃泥涌市政大廈6樓,"6/F, Wong Nai Chung Municipal Services Building, 2 Yuk Sau Street, Happy Valley, Hong Kong",HKI,B10
+B1101,寶血小學,Precious Blood Primary School,香港跑馬地成和道72號,"72 Sing Woo Road, Happy Valley, Hong Kong",HKI,B11
+B1102,香港青少年服務處成和青少年中心,Hong Kong Children & Youth Services Sing Woo Children & Youth Centre,香港跑馬地桂成里20號誠和閣地下,"G/F, 20 Kwai Sing Lane, Happy Valley, Hong Kong",HKI,B11
+B1201,灣仔郵政局,Wan Chai Post Office,香港灣仔皇后大道東197-213號胡忠大廈2樓,"2/F, Wu Chung House, 197-213 Queen's Road East, Wan Chai, Hong Kong",HKI,B12
+B1301,循道衛理中心,Methodist Centre,香港灣仔軒尼詩道22號2樓,"2/F, 22 Hennessy Road, Wan Chai, Hong Kong",HKI,B13
+C0101,東區少年警訊會所,Eastern District JPC Club House,香港太古城太裕路5號興安閣平台512-513號,"Shop P512-513, Hing On Mansion, 5 Tai Yue Avenue, Taikoo Shing, Hong Kong",HKI,C01
+C0201,聖安娜中英文幼稚園,St. Anna Anglo-Chinese Kindergarten,香港鰂魚涌太古城太榮路2號南海閣平台,"Podium, Nam Hoi Mansion, 2 Tai Wing Avenue, Taikoo Shing, Quarry Bay, Hong Kong",HKI,C02
+C0202,太古城郵政局,Tai Koo Shing Post Office,香港太古城太豐路1-3號金星閣地下G1020-1022號,"Shop G1020-1022, G/F, Kam Sing Mansion, 1-3 Tai Fung Avenue, Taikoo Shing, Hong Kong",HKI,C02
+C0301,西灣河健康中心,Sai Wan Ho Health Centre,香港西灣河太康街28號地下,"G/F, 28 Tai Hong Street, Sai Wan Ho, Hong Kong",HKI,C03
+C0401,中華基督教會基灣小學(愛蝶灣),CCC Kei Wan Primary School (Aldrich Bay),香港筲箕灣愛信道39號,"39 Oi Shun Road, Shau Kei Wan, Hong Kong",HKI,C04
+C0501,筲箕灣郵政局,Shau Kei Wan Post Office,香港筲箕灣寶文街1號峻峰花園地下,"G/F, Perfect Mount Gardens, 1 Po Man Street, Shau Kei Wan, Hong Kong",HKI,C05
+C0601,愛秩序灣官立小學,Aldrich Bay Government Primary School,香港筲箕灣愛禮街1號,"1 Oi Lai Street, Shau Kei Wan, Hong Kong",HKI,C06
+C0602,筲箕灣官立小學,Shau Kei Wan Government Primary School,香港筲箕灣筲箕灣東大街19號,"19 Shau Kei Wan Main Street East, Shau Kei Wan, Hong Kong",HKI,C06
+C0701,嶺南中學,Lingnan Secondary School,香港杏花邨盛康里6號,"6 Shing Hong Lane, Heng Fa Chuen, Hong Kong",HKI,C07
+C0801,聖公會李福慶中學,SKH Li Fook Hing Secondary School,香港柴灣翠灣街翠灣邨,"Tsui Wan Estate,Tsui Wan Street, Chai Wan, Hong Kong",HKI,C08
+C0901,福建中學(小西灣),Fukien Secondary School (Siu Sai Wan),香港柴灣小西灣富怡道2號,"2 Fu Yee Road, Siu Sai Wan, Chai Wan, Hong Kong",HKI,C09
+C1001,小西灣社區會堂,Siu Sai Wan Community Hall,香港柴灣小西灣道15號小西灣綜合大樓地下,"G/F, Siu Sai Wan Complex, 15 Siu Sai Wan Road, Chai Wan, Hong Kong",HKI,C10
+C1101,嶺南衡怡紀念中學,Lingnan Hang Yee Memorial Secondary School,香港柴灣小西灣道31號,"31 Siu Sai Wan Road, Chai Wan, Hong Kong",HKI,C11
+C1201,救世軍中原慈善基金學校,The Salvation Army Centaline Charity Fund School,香港柴灣華廈街9號,"9 Wah Ha Street, Chai Wan, Hong Kong",HKI,C12
+C1301,文理書院(香港),Cognitio College (Hong Kong),香港柴灣萃文道4號,"4 Sui Man Road, Chai Wan, Hong Kong",HKI,C13
+C1401,鰂魚涌體育館,Quarry Bay Sports Centre,香港鰂魚涌街38號鰂魚涌市政大廈7樓,"7/F, Quarry Bay Municipal Services Building, 38 Quarry Bay Street, Hong Kong",HKI,C14
+C1501,閩僑中學,Man Kiu College,香港北角雲景道81號,"81 Cloud View Road, North Point, Hong Kong",HKI,C15
+C1601,金文泰中學,Clementi Secondary School,香港北角炮台山道30號,"30 Fortress Hill Road, North Point, Hong Kong",HKI,C16
+C1701,銅鑼灣社區中心,Causeway Bay Community Centre,香港銅鑼灣福蔭道7號,"7 Fook Yum Road, Causeway Bay, Hong Kong",HKI,C17
+C1801,渣華道體育館,Java Road Sports Centre,香港北角渣華道99號渣華道市政大廈3樓,"3/F, Java Road Municipal Services Building, 99 Java Road, North Point, Hong Kong",HKI,C18
+C1802,顯理中學,Henrietta Secondary School,香港北角城市花園道2號,"2 City Garden Road, North Point, Hong Kong",HKI,C18
+C1901,北角衞理小學,North Point Methodist Primary School,香港北角長康街19號,"19 Cheung Hong Street, North Point, Hong Kong",HKI,C19
+C2001,香港遊樂場協會賽馬會北角港運城青少年綜合服務中心,HKPA Jockey Club North Point Island Place Integrated Service Centre for Children and Youth,香港北角丹拿道53號港運城2樓,"2/F, Island Place, 53 Tanner Road, North Point, Hong Kong",HKI,C20
+C2101,啟基學校(港島),Chan's Creative School (Hong Kong Island),香港北角馬寶道82號,"82 Marble Road, North Point, Hong Kong",HKI,C21
+C2201,丹拿山循道學校,"Chinese Methodist School, Tanner Hill",香港北角百福道4號,"4 Pak Fuk Road, North Point, Hong Kong",HKI,C22
+C2301,北角官立小學,North Point Government Primary School,香港鰂魚涌英皇道888號,"888 King's Road, Quarry Bay, Hong Kong",HKI,C23
+C2401,鰂魚涌社區會堂,Quarry Bay Community Hall,香港鰂魚涌基利路1號鰂魚涌社區綜合大樓地下,"G/F, Quarry Bay Community Complex, 1 Greig Road, Quarry Bay, Hong Kong",HKI,C24
+C2501,佛教中華康山學校,Buddhist Chung Wah Kornhill Primary School,香港鰂魚涌康愉街2號,"2 Hong Yue Street, Quarry Bay, Hong Kong",HKI,C25
+C2601,太古小學,Taikoo Primary School,香港鰂魚涌英皇道1100號,"1100 King's Road, Quarry Bay, Hong Kong",HKI,C26
+C2701,青松興東幼稚園,Ching Chung Hing Tung Kindergarten,香港筲箕灣興東邨興祖樓地下,"G/F, Hing Cho House, Hing Tung Estate, Shau Kei Wan, Hong Kong",HKI,C27
+C2702,伊斯蘭徐錦享紀念幼稚園,Islamic Abu Bakar Chui Memorial Kindergarten,香港筲箕灣東熹苑景熹閣地下,"G/F, King Hei House, Tung Hei Court, Shau Kei Wan, Hong Kong",HKI,C27
+C2801,西灣河體育館,Sai Wan Ho Sports Centre,香港西灣河筲箕灣道111號2樓,"2/F, 111 Shau Kei Wan Road, Sai Wan Ho, Hong Kong",HKI,C28
+C2901,勵志會梁李秀娛紀念小學,The Endeavourers Leung Lee Sau Yu Memorial Primary School,香港筲箕灣耀興道25號,"25 Yiu Hing Road, Shau Kei Wan, Hong Kong",HKI,C29
+C2902,筲箕灣街坊福利事務促進會有限公司,Shau Kei Wan Kai-fong Welfare Advancement Association Ltd.,香港筲箕灣南安街103號,"103 Nam On Street, Shau Kei Wan, Hong Kong",HKI,C29
+C3001,循道愛華村服務中心社會福利部 - 愛華青少年綜合服務隊(耀東服務處),"Methodist Epworth Village Community Centre, Social Welfare - Epworth Integrated Youth Team (Yiu Tung Base)",香港筲箕灣耀東邨耀華樓地下B翼、C翼及1樓B翼,"Wing B & C, G/F & Wing B, 1/F, Yiu Wah House, Yiu Tung Estate, Shau Kei Wan, Hong Kong",HKI,C30
+C3101,粵南信義會腓力堂興民幼兒學園,Lutheran Philip House Hing Man Nursery School,香港柴灣興民邨社區中心第3層,"Level 3, Community Building, Hing Man Estate, Chai Wan, Hong Kong",HKI,C31
+C3102,路德會聖雅各幼稚園,St. James Lutheran Kindergarten,香港柴灣興華(一)邨卓華樓地下,"G/F, Cheuk Wah House, Hing Wah (1) Estate, Chai Wan, Hong Kong",HKI,C31
+C3201,天主教明德學校,Meng Tak Catholic School,香港柴灣祥民道11號,"11 Cheung Man Road, Chai Wan, Hong Kong",HKI,C32
+C3301,柴灣母嬰健康院,Chai Wan Maternal and Child Health Centre,香港柴灣柴灣道233號新翠花園第6座政府大樓2樓,"Level 2, Government Office, Block 6, New Jade Garden, 233 Chai Wan Road, Chai Wan, Hong Kong",HKI,C33
+C3401,漁灣社區會堂,Yue Wan Community Hall,香港柴灣柴灣道365號漁灣邨,"365 Chai Wan Road, Yue Wan Estate, Chai Wan, Hong Kong",HKI,C34
+C3501,香港中華基督教青年會 - 柴灣會所,Chinese YMCA of Hong Kong - Chai Wan Centre,香港柴灣小西灣邨瑞樂樓地下1-10號,"Units 1-10, G/F, Sui Lok House, Siu Sai Wan Estate, Chai Wan, Hong Kong",HKI,C35
+D0101,香港仔體育館,Aberdeen Sports Centre,香港香港仔香港仔大道203號香港仔市政大廈6樓,"6/F, Aberdeen Municipal Services Building, 203 Aberdeen Main Road, Aberdeen, Hong Kong",HKI,D01
+D0201,鴨脷洲社區會堂,Ap Lei Chau Community Hall,香港鴨脷洲邨,"Ap Lei Chau Estate, Hong Kong",HKI,D02
+D0301,鴨脷洲體育館,Ap Lei Chau Sports Centre,香港鴨脷洲洪聖街8號鴨脷洲市政大廈3樓,"3/F, Ap Lei Chau Municipal Services Building, 8 Hung Shing Street, Ap Lei Chau, Hong Kong",HKI,D03
+D0401,聖伯多祿天主教小學,St. Peter's Catholic Primary School,香港鴨脷洲利東邨第2期,"Phase II, Lei Tung Estate, Ap Lei Chau, Hong Kong",HKI,D04
+D0501,利東社區會堂,Lei Tung Community Hall,香港鴨脷洲利東邨,"Lei Tung Estate, Ap Lei Chau, Hong Kong",HKI,D05
+D0601,香港南區官立小學,Hong Kong Southern District Government Primary School,香港鴨脷洲鴨脷洲橋道325號,"325 Ap Lei Chau Bridge Road, Ap Lei Chau, Hong Kong",HKI,D06
+D0701,海怡社區中心,South Horizons Neighbourhood Community Centre,香港鴨脷洲海怡半島東翼商場1樓,"1/F, East Commercial Block, South Horizons, Ap Lei Chau, Hong Kong",HKI,D07
+D0801,華貴社區會堂,Wah Kwai Community Hall,香港奇力灣華貴邨,"Wah Kwai Estate, Kellett Bay, Hong Kong",HKI,D08
+D0901,明愛莊月明中學,Caritas Chong Yuet Ming Secondary School,香港薄扶林華富邨華富道53號,"53 Wah Fu Road, Wah Fu Estate, Pokfulam, Hong Kong",HKI,D09
+D1001,東華三院鶴山學校,TWGHs Hok Shan School,香港華富邨華林徑5號,"5 Wah Lam Path, Wah Fu Estate, Hong Kong",HKI,D10
+D1101,沙宣道會堂,Sassoon Road Assembly Hall,香港薄扶林沙宣道6號,"6 Sassoon Road, Pokfulam, Hong Kong",HKI,D11
+D1102,上碧瑤灣遊樂場,Playground of Upper Baguio Villa,香港域多利道555號碧瑤灣(上),"Baguio Villa (Upper), 555 Victoria Road, Hong Kong",HKI,D11
+D1103,數碼港郵政局,Cyberport Post Office,香港數碼港道100號數碼港零售服務中心1樓5-8號舖,"Shops 5-8, Level 1, The Annex, Cyberport, 100 Cyberport Road, Hong Kong",HKI,D11
+D1201,展亮技能發展中心 (薄扶林),Shine Skills Centre (Pokfulam),香港薄扶林道147號,"147 Pokfulam Road, Hong Kong",HKI,D12
+D1202,置富南區會堂,Chi Fu Community Hall,香港薄扶林置富道置富南區廣場,"Chi Fu Landmark, Chi Fu Road, Pokfulam, Hong Kong",HKI,D12
+D1301,明愛賽馬會香港仔服務中心,Caritas Jockey Club Aberdeen Social Centre,香港香港仔田灣街20號,"20 Tin Wan Street, Aberdeen, Hong Kong",HKI,D13
+D1302,聖公會田灣始南小學,SKH Tin Wan Chi Nam Primary School,香港香港仔田灣新街5號,"5 Tin Wan New Street, Aberdeen, Hong Kong",HKI,D13
+D1401,香港仔聖伯多祿天主教小學,Aberdeen St. Peter's Catholic Primary School,香港香港仔石排灣邨第2期,"Phase 2, Shek Pai Wan Estate, Aberdeen, Hong Kong",HKI,D14
+D1501,香港仔網球及壁球中心,Aberdeen Tennis and Squash Centre,香港香港仔海傍道1號,"1 Aberdeen Praya Road, Aberdeen, Hong Kong",HKI,D15
+D1502,南區長者地區中心,Southern District Elderly Community Centre,香港黃竹坑深灣道3號南濤閣地下1-3室,"Shops 1-3, G/F, South Wave Court, 3 Shum Wan Road, Wong Chuk Hang, Hong Kong",HKI,D15
+D1601,黃竹坑體育館,Wong Chuk Hang Sports Centre,香港香港仔黃竹坑道168號,"168 Wong Chuk Hang Road, Aberdeen, Hong Kong",HKI,D16
+D1602,香港國際學校,Hong Kong International School,香港淺水灣南灣坊6號1樓體育館,"UPS Gym, 1/F, 6 South Bay Close, Repulse Bay, Hong Kong",HKI,D16
+D1701,赤柱社區會堂,Stanley Community Hall,香港赤柱市場道6號赤柱市政大廈地面下層,"LG/F, Stanley Municipal Services Building, 6 Stanley Market Road, Hong Kong",HKI,D17
+D1702,石澳健康院,Medical Clinic of Shek O Health Centre,香港石澳石澳村140號,"140 Shek O Village, Shek O, Hong Kong",HKI,D17
